@@ -6,4 +6,4 @@
 * Api
 	- /GET /api/persons
 	- /POST /api/person
-	- /Get /api/person?firstname=<firstName>
+	- /Get /api/person?firstname=\<firstName\>
