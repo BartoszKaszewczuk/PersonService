@@ -8,4 +8,12 @@ class PersonService {
     fun getPersons(): List<Person> {
         return emptyList()
     }
+
+    fun addPerson(person: Person) {
+        TODO("stub")
+    }
+
+    fun getPersonByFirstname(firstname: String) {
+        TODO("stub")
+    }
 }
